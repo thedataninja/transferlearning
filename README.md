@@ -10,7 +10,7 @@ This repository contains a **transfer learning pipeline** using **Sentence Trans
 
 ---
 ## Running with Docker  
-docker build -t transfer-learning-app .
-docker run --rm transfer-learning-app
+- docker build -t transfer-learning-app .
+- docker run --rm transfer-learning-app
 
 

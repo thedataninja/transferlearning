@@ -9,6 +9,8 @@ This repository contains a **transfer learning pipeline** using **Sentence Trans
 - **Dockerized** for easy deployment  
 
 ---
+## Running with Docker  
+docker build -t transfer-learning-app .
+docker run --rm transfer-learning-app
 
-## 📂 Project Structure  
-📦 project-directory ┣ 📜 Dockerfile ┣ 📜 requirements.txt ┣ 📜 train.py ┣ 📜 README.md ┗ 📂 data/
+
